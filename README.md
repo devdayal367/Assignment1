@@ -34,12 +34,5 @@ The code metioned below will retrieve the collected data from database
 ```
 ![detailspage](https://user-images.githubusercontent.com/53893442/67897579-b5735480-fb84-11e9-9dff-eb5622673a86.png)
 
-## Inside Database
-Informations stored inside database can be viewed and managed through MongoDB Compass which is the official GUI for Mongodb.
 
-![compass](https://user-images.githubusercontent.com/53893442/67897213-eef79000-fb83-11e9-8b0e-a61286347baf.png)
 
-### Modules used
-1. Express
-2. Body_parser
-3. Mongoose
